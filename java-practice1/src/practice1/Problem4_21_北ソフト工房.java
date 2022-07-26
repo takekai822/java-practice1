@@ -18,6 +18,18 @@ public class Problem4_21_北ソフト工房 {
 			}
 			System.out.println();
 		}
+//		for( int i = 0 ; i < number ; i++ )
+//		{
+//		    for( int j = 0 ; j < number ; j++ )
+//		    {
+//		        if( i == j || ( number - i - 1 ) == j )
+//		            System.out.print( "X" );
+//		        else
+//		            System.out.print( " " );
+//		    }
+//
+//		    System.out.println( "" );
+//		}
 	}
 
 }
