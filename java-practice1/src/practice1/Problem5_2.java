@@ -7,9 +7,9 @@ public class Problem5_2 {
 		double[] d = {0.2, -5.1, 3.2, 1.8};
 		for (int i = 0; i < 4; i++) {
 			if (i == 3) {
-				System.out.print("d[" + i + "]=" + d[i]);
+				System.out.printf("d[%d]=%.1f", i, d[i]);
 			} else {
-				System.out.print("d[" + i + "]=" + d[i] + " ");
+				System.out.printf("d[%d]=%.1f ", i, d[i]);
 			}
 		}
 	}
