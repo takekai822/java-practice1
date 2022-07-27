@@ -8,9 +8,9 @@ public class Problem5_1 {
 		for (int i = 0; i < 7; i++) {
 			a [i] = (int)(Math.random()*10)+1;
 			if (i == 6) {
-				System.out.print("a[" + i + "]=" + a[i]);
+				System.out.printf("a[%d]=%d", i, a[i]);
 			} else {
-				System.out.print("a[" + i + "]=" + a[i] + " ");
+				System.out.printf("a[%d]=%d ", i, a[i]);
 			}
 		}
 	}
