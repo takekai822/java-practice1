@@ -1,6 +1,6 @@
 package practice1;
 import java.util.Scanner;
-public class Problem3_1_北ソフト工房 {
+public class Problem3_1_kitasoft {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
